@@ -1,3 +1,3 @@
 def call() {
-    git branch: 'main', credentialsId: 'gitcred', url: 'git@github.com:Jogeswar98/attendance-api.git'
+    git branch: 'main', url: 'https://github.com/Jogeswar98/attendance-api.git'
 }
